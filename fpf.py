@@ -42,7 +42,7 @@ except:
 try:
       print lcy+'Please wait..'+r
       try:
-            os.system('git clone https://github.com/KJx/fpf');sys.stdout.flush()
+            os.system('git clone https://github.com/CRABSid/FPF');sys.stdout.flush()
       except:
             print lr+'Something was wrong.\nCheck your connections !'+r
             exit()
